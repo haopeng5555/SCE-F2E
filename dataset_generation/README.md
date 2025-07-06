@@ -4,12 +4,14 @@ This directory contains the scripts for generating the SCE–F2E–Lite dataset 
 
 ## Directory Structure
 
+```
 dataset_generation/
 ├── sentence_collector.py
 ├── valence_annotator.py
 ├── pos_dep_simulator.py
 ├── enhanced_emotion_extractor.py
 └── data_generator.py
+```
 
 ## Overview of Files
 
