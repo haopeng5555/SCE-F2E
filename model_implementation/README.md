@@ -1,7 +1,3 @@
-Thank you—that reference helps. Here's a rewritten `README.md` for your **model implementation** folder in the same tone, style, and formatting as the example you shared:
-
----
-
 # SCE–F2E–Model
 
 This repository folder contains the full model implementation for the **SCE–F2E–Lite** project: a hybrid multi-branch neural architecture designed for context-aware French-to-English machine translation.
