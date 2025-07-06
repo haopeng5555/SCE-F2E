@@ -5,8 +5,8 @@ This repository folder contains the full bilingual dataset and its preview versi
 ## Folder Structure
 
 SCE_F2E_Dataset
-   ├── SCE_F2E_Shortened.csv  
-   ├── SCE_F2E_Dataset.json  
+    - SCE_F2E_Shortened.csv  
+    - SCE_F2E_Dataset.json  
 
 ## File Descriptions
 
